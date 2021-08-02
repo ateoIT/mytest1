@@ -1,0 +1,4 @@
+# Created by cloud-init v. 21.2-3-g899bfaa9-0ubuntu2~20.04.1 on Fri, 30 Jul 2021 08:14:21 +0000
+
+# User rules for ateo
+ateo ALL=(ALL) NOPASSWD:ALL
